@@ -1,0 +1,457 @@
+[
+    {
+        "id": "13579",
+        "name": "Chef Liu",
+        "chef_image": "https://img.freepik.com/free-photo/life-style_1122-1996.jpg?w=996&t=st=1683013048~exp=1683013648~hmac=8490c48f83ba491eebf3e0ca2c64dbb3cd7329a720d5d523e3088ba7dcc2dc29",
+        "years_of_experience": 15,
+        "description": "Chef Liu is a highly experienced Chinese chef who has worked in top restaurants across China and the US. He is known for his traditional Cantonese dishes, as well as his innovative takes on classic Chinese cuisine.",
+        "likes": 2100,
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "boneless chicken breast",
+                    "soy sauce",
+                    "cornstarch",
+                    "red chili peppers",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "roasted peanuts",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken in soy sauce and cornstarch.\n2. Stir-fry chicken with red chili peppers, ginger, and garlic.\n3. Add green onions and roasted peanuts.\n4. Serve hot with steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "firm tofu",
+                    "ground pork",
+                    "chili bean sauce",
+                    "doubanjiang",
+                    "garlic",
+                    "ginger",
+                    "chicken broth",
+                    "cornstarch",
+                    "green onions"
+                ],
+                "cooking_method": "1. Brown ground pork with chili bean sauce, doubanjiang, garlic, and ginger.\n2. Add chicken broth and bring to a boil.\n3. Add cubed tofu and simmer until heated through.\n4. Thicken with cornstarch slurry.\n5. Garnish with green onions and serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Peking Duck",
+                "ingredients": [
+                    "whole duck",
+                    "salt",
+                    "honey",
+                    "soy sauce",
+                    "sugar",
+                    "sherry",
+                    "scallions",
+                    "cucumbers",
+                    "pancakes"
+                ],
+                "cooking_method": "1. Clean and season duck with salt.\n2. Hang duck to dry for 24 hours.\n3. Roast duck in oven until skin is crispy and golden.\n4. Brush with honey mixture.\n5. Serve with scallions, cucumbers, and pancakes.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Steamed Fish with Black Bean Sauce",
+                "ingredients": [
+                    "whole fish",
+                    "soy sauce",
+                    "sesame oil",
+                    "ginger",
+                    "scallions",
+                    "garlic",
+                    "black bean sauce"
+                ],
+                "cooking_method": "1. Clean and season fish with soy sauce and sesame oil.\n2. Place fish on steaming plate.\n3. Top with ginger, scallions, and garlic.\n4. Steam fish until cooked through.\n5. Heat black bean sauce and pour over fish before serving.",
+                "rating": 4.6
+            }
+        ]
+    },
+
+
+    {
+        "id": "43792",
+        "name": "Chef Li",
+        "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=996&t=st=1683013094~exp=1683013694~hmac=eaa860133cd01e516a9507f4a1b7ebb3fe742748d85d6508fdba43d1a89e5088",
+        "experience": 12,
+        "description": "Chef Li has over 12 years of experience cooking authentic Chinese cuisine. He specializes in Sichuan and Cantonese dishes.",
+        "likes": 350,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast",
+                    "1/2 cup peanuts",
+                    "2 tbsp soy sauce",
+                    "2 tbsp hoisin sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tbsp chili garlic sauce",
+                    "2 tsp cornstarch",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "1/4 cup scallions",
+                    "1 red bell pepper"
+                ],
+                "cooking_method": "1. Cut the chicken into bite-sized pieces and marinate with 1 tablespoon soy sauce and cornstarch for 10 minutes.\n2. In a small bowl, mix together 1 tablespoon soy sauce, hoisin sauce, rice vinegar, chili garlic sauce, sugar, and salt.\n3. Heat 2 tablespoons of oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes until golden brown.\n4. Remove the chicken from the pan and set aside. Add the garlic, ginger, scallions, and red bell pepper to the pan and stir-fry for 1-2 minutes.\n5. Add the sauce mixture to the pan and stir-fry for 1-2 minutes until thickened. Return the chicken to the pan and stir-fry for another minute.\n6. Add the peanuts to the pan and stir-fry for another 30 seconds. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken stock",
+                    "1/2 cup shiitake mushrooms",
+                    "1/2 cup bamboo shoots",
+                    "1/4 cup soy sauce",
+                    "2 tbsp rice vinegar",
+                    "1 tbsp chili garlic sauce",
+                    "1 tbsp cornstarch",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "2 eggs",
+                    "1/4 cup scallions"
+                ],
+                "cooking_method": "1. In a medium saucepan, bring the chicken stock to a boil.\n2. Add the shiitake mushrooms and bamboo shoots to the pot and cook for 1-2 minutes.\n3. In a small bowl, whisk together the soy sauce, rice vinegar, chili garlic sauce, cornstarch, sugar, and salt.\n4. Slowly pour the sauce into the soup while stirring.\n5. In a small bowl, beat the eggs.\n6. Slowly pour the eggs into the soup while stirring.\n7. Add the scallions to the soup and cook for another minute. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "soft tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "Sichuan peppercorns",
+                    "scallions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside.\n2. Heat oil in a wok over high heat and stir-fry the ground pork until browned.\n3. Stir-fry the doubanjiang, Sichuan peppercorns, scallions, garlic, and ginger until fragrant.\n4. Add the tofu and soy sauce, and stir gently to combine.\n5. Cook for a few minutes until the tofu is heated through.\n6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Mongolian Beef",
+                "ingredients": [
+                    "1 pound flank steak, sliced into thin strips",
+                    "1/4 cup cornstarch",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon rice vinegar",
+                    "1 tablespoon hoisin sauce",
+                    "2 cloves garlic, minced",
+                    "2 tsp cornstarch",
+                    "2 tsp soy sauce",
+                    "1 tsp sesame oil",
+                    "1 tsp sugar",
+                    "1/4 tsp red pepper flakes",
+                    "1/4 cup vegetable oil",
+                    "1 red bell pepper, chopped",
+                    "1 green bell pepper, chopped"
+                ],
+                "cooking_method": "1. In a bowl, mix the chicken with soy sauce, cornstarch, salt, and black pepper. Set aside.\n2. Heat vegetable oil in a wok or large pan over high heat. Add the chicken and stir-fry until cooked through, about 5 minutes.\n3. Add the red and green bell peppers, peanuts, garlic, ginger, and dried chilies. Stir-fry for another 2-3 minutes.\n4. Add scallions and sesame oil. Stir-fry for another 1-2 minutes. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+
+
+
+    {
+        "id": "98106",
+        "name": "Chef Li Ming",
+        "image": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-771.jpg?w=996&t=st=1683013193~exp=1683013793~hmac=cd41d1a37e58e81d4aa2be3051c2865ef5f863636d9a5f752d4f1b221fdc5c7b",
+        "experience": "10 years",
+        "description": "Chef Li Ming is an expert in Sichuan cuisine and has been cooking for over 10 years.",
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, cut into small cubes",
+                    "2 tbsp soy sauce",
+                    "1 tbsp cornstarch",
+                    "1/2 tsp salt",
+                    "1/2 tsp black pepper",
+                    "2 tbsp vegetable oil",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "3-4 dried red chilies",
+                    "2 scallions, sliced",
+                    "1 tbsp sesame oil"
+                ],
+                "cooking_method": "1. In a bowl, mix the chicken with soy sauce, cornstarch, salt, and black pepper. Set aside.\n2. Heat vegetable oil in a wok or large pan over high heat. Add the chicken and stir-fry until cooked through, about 5 minutes.\n3. Add the red and green bell peppers, peanuts, garlic, ginger, and dried chilies. Stir-fry for another 2-3 minutes.\n4. Add scallions and sesame oil. Stir-fry for another 1-2 minutes. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken stock",
+                    "1/2 cup bamboo shoots, julienned",
+                    "1/2 cup shiitake mushrooms, sliced",
+                    "1/2 cup firm tofu, julienned",
+                    "2 tbsp soy sauce",
+                    "2 tbsp rice vinegar",
+                    "1 tsp ground white pepper",
+                    "1 tsp chili paste",
+                    "1 egg, beaten",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water",
+                    "2 scallions, sliced",
+                    "1 tbsp sesame oil"
+                ],
+                "cooking_method": "1. In a pot, bring chicken stock to a boil. Add bamboo shoots, shiitake mushrooms, and tofu. Simmer for 5-10 minutes.\n2. Add soy sauce, rice vinegar, white pepper, and chili paste. Simmer for another 5 minutes.\n3. In a small bowl, mix cornstarch and water. Slowly pour the mixture into the soup, stirring constantly.\n4. While stirring the soup, slowly pour in the beaten egg. Continue stirring for another minute or two.\n5. Add scallions and sesame oil. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Steamed Fish with Black Bean Sauce",
+                "ingredients": [
+                    "whole fish",
+                    "soy sauce",
+                    "sesame oil",
+                    "ginger",
+                    "scallions",
+                    "garlic",
+                    "black bean sauce"
+                ],
+                "cooking_method": "1. Clean and season fish with soy sauce and sesame oil.\n2. Place fish on steaming plate.\n3. Top with ginger, scallions, and garlic.\n4. Steam fish until cooked through.\n5. Heat black bean sauce and pour over fish before serving.",
+                "rating": 4.6
+            }
+        ]
+    },
+
+
+    {
+        "id": "25431",
+        "name": "Ming Tsai",
+        "image": "https://images.unsplash.com/photo-1610540871860-2f2ecf619696?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "experience": 12,
+        "description": "Chef Li has over 12 years of experience cooking authentic Chinese cuisine. He specializes in Sichuan and Cantonese dishes.",
+        "likes": 350,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast",
+                    "1/2 cup peanuts",
+                    "2 tbsp soy sauce",
+                    "2 tbsp hoisin sauce",
+                    "1 tbsp rice vinegar",
+                    "1 tbsp chili garlic sauce",
+                    "2 tsp cornstarch",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "1/4 cup scallions",
+                    "1 red bell pepper"
+                ],
+                "cooking_method": "1. Cut the chicken into bite-sized pieces and marinate with 1 tablespoon soy sauce and cornstarch for 10 minutes.\n2. In a small bowl, mix together 1 tablespoon soy sauce, hoisin sauce, rice vinegar, chili garlic sauce, sugar, and salt.\n3. Heat 2 tablespoons of oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes until golden brown.\n4. Remove the chicken from the pan and set aside. Add the garlic, ginger, scallions, and red bell pepper to the pan and stir-fry for 1-2 minutes.\n5. Add the sauce mixture to the pan and stir-fry for 1-2 minutes until thickened. Return the chicken to the pan and stir-fry for another minute.\n6. Add the peanuts to the pan and stir-fry for another 30 seconds. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken stock",
+                    "1/2 cup shiitake mushrooms",
+                    "1/2 cup bamboo shoots",
+                    "1/4 cup soy sauce",
+                    "2 tbsp rice vinegar",
+                    "1 tbsp chili garlic sauce",
+                    "1 tbsp cornstarch",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "2 eggs",
+                    "1/4 cup scallions"
+                ],
+                "cooking_method": "1. In a medium saucepan, bring the chicken stock to a boil.\n2. Add the shiitake mushrooms and bamboo shoots to the pot and cook for 1-2 minutes.\n3. In a small bowl, whisk together the soy sauce, rice vinegar, chili garlic sauce, cornstarch, sugar, and salt.\n4. Slowly pour the sauce into the soup while stirring.\n5. In a small bowl, beat the eggs.\n6. Slowly pour the eggs into the soup while stirring.\n7. Add the scallions to the soup and cook for another minute. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "soft tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "Sichuan peppercorns",
+                    "scallions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside.\n2. Heat oil in a wok over high heat and stir-fry the ground pork until browned.\n3. Stir-fry the doubanjiang, Sichuan peppercorns, scallions, garlic, and ginger until fragrant.\n4. Add the tofu and soy sauce, and stir gently to combine.\n5. Cook for a few minutes until the tofu is heated through.\n6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Mongolian Beef",
+                "ingredients": [
+                    "1 pound flank steak, sliced into thin strips",
+                    "1/4 cup cornstarch",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon rice vinegar",
+                    "1 tablespoon hoisin sauce",
+                    "2 cloves garlic, minced",
+                    "2 tsp cornstarch",
+                    "2 tsp soy sauce",
+                    "1 tsp sesame oil",
+                    "1 tsp sugar",
+                    "1/4 tsp red pepper flakes",
+                    "1/4 cup vegetable oil",
+                    "1 red bell pepper, chopped",
+                    "1 green bell pepper, chopped"
+                ],
+                "cooking_method": "1. In a bowl, mix the chicken with soy sauce, cornstarch, salt, and black pepper. Set aside.\n2. Heat vegetable oil in a wok or large pan over high heat. Add the chicken and stir-fry until cooked through, about 5 minutes.\n3. Add the red and green bell peppers, peanuts, garlic, ginger, and dried chilies. Stir-fry for another 2-3 minutes.\n4. Add scallions and sesame oil. Stir-fry for another 1-2 minutes. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+
+    {
+        "id": "76589",
+        "name": "Ken Hom",
+        "chef_image": "https://images.unsplash.com/photo-1617627157732-7cb9fe7a37d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+        "years_of_experience": 15,
+        "description": "Chef Liu is a highly experienced Chinese chef who has worked in top restaurants across China and the US. He is known for his traditional Cantonese dishes, as well as his innovative takes on classic Chinese cuisine.",
+        "likes": 2100,
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "boneless chicken breast",
+                    "soy sauce",
+                    "cornstarch",
+                    "red chili peppers",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "roasted peanuts",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken in soy sauce and cornstarch.\n2. Stir-fry chicken with red chili peppers, ginger, and garlic.\n3. Add green onions and roasted peanuts.\n4. Serve hot with steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "firm tofu",
+                    "ground pork",
+                    "chili bean sauce",
+                    "doubanjiang",
+                    "garlic",
+                    "ginger",
+                    "chicken broth",
+                    "cornstarch",
+                    "green onions"
+                ],
+                "cooking_method": "1. Brown ground pork with chili bean sauce, doubanjiang, garlic, and ginger.\n2. Add chicken broth and bring to a boil.\n3. Add cubed tofu and simmer until heated through.\n4. Thicken with cornstarch slurry.\n5. Garnish with green onions and serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Peking Duck",
+                "ingredients": [
+                    "whole duck",
+                    "salt",
+                    "honey",
+                    "soy sauce",
+                    "sugar",
+                    "sherry",
+                    "scallions",
+                    "cucumbers",
+                    "pancakes"
+                ],
+                "cooking_method": "1. Clean and season duck with salt.\n2. Hang duck to dry for 24 hours.\n3. Roast duck in oven until skin is crispy and golden.\n4. Brush with honey mixture.\n5. Serve with scallions, cucumbers, and pancakes.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Steamed Fish with Black Bean Sauce",
+                "ingredients": [
+                    "whole fish",
+                    "soy sauce",
+                    "sesame oil",
+                    "ginger",
+                    "scallions",
+                    "garlic",
+                    "black bean sauce"
+                ],
+                "cooking_method": "1. Clean and season fish with soy sauce and sesame oil.\n2. Place fish on steaming plate.\n3. Top with ginger, scallions, and garlic.\n4. Steam fish until cooked through.\n5. Heat black bean sauce and pour over fish before serving.",
+                "rating": 4.6
+            }
+        ]
+    },
+
+    {
+        "id": "60372",
+        "name": "Martin Yan",
+        "image": "https://images.unsplash.com/photo-1564632302695-ae0485da8b85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+        "experience": "10 years",
+        "description": "Chef Li Ming is an expert in Sichuan cuisine and has been cooking for over 10 years.",
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, cut into small cubes",
+                    "2 tbsp soy sauce",
+                    "1 tbsp cornstarch",
+                    "1/2 tsp salt",
+                    "1/2 tsp black pepper",
+                    "2 tbsp vegetable oil",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup roasted peanuts",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "3-4 dried red chilies",
+                    "2 scallions, sliced",
+                    "1 tbsp sesame oil"
+                ],
+                "cooking_method": "1. In a bowl, mix the chicken with soy sauce, cornstarch, salt, and black pepper. Set aside.\n2. Heat vegetable oil in a wok or large pan over high heat. Add the chicken and stir-fry until cooked through, about 5 minutes.\n3. Add the red and green bell peppers, peanuts, garlic, ginger, and dried chilies. Stir-fry for another 2-3 minutes.\n4. Add scallions and sesame oil. Stir-fry for another 1-2 minutes. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken stock",
+                    "1/2 cup bamboo shoots, julienned",
+                    "1/2 cup shiitake mushrooms, sliced",
+                    "1/2 cup firm tofu, julienned",
+                    "2 tbsp soy sauce",
+                    "2 tbsp rice vinegar",
+                    "1 tsp ground white pepper",
+                    "1 tsp chili paste",
+                    "1 egg, beaten",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water",
+                    "2 scallions, sliced",
+                    "1 tbsp sesame oil"
+                ],
+                "cooking_method": "1. In a pot, bring chicken stock to a boil. Add bamboo shoots, shiitake mushrooms, and tofu. Simmer for 5-10 minutes.\n2. Add soy sauce, rice vinegar, white pepper, and chili paste. Simmer for another 5 minutes.\n3. In a small bowl, mix cornstarch and water. Slowly pour the mixture into the soup, stirring constantly.\n4. While stirring the soup, slowly pour in the beaten egg. Continue stirring for another minute or two.\n5. Add scallions and sesame oil. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Steamed Fish with Black Bean Sauce",
+                "ingredients": [
+                    "whole fish",
+                    "soy sauce",
+                    "sesame oil",
+                    "ginger",
+                    "scallions",
+                    "garlic",
+                    "black bean sauce"
+                ],
+                "cooking_method": "1. Clean and season fish with soy sauce and sesame oil.\n2. Place fish on steaming plate.\n3. Top with ginger, scallions, and garlic.\n4. Steam fish until cooked through.\n5. Heat black bean sauce and pour over fish before serving.",
+                "rating": 4.6
+            }
+        ]
+    }
+
+
+]
