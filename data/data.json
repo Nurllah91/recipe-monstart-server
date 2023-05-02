@@ -8,6 +8,7 @@
         "likes": 2100,
         "recipes": [
             {
+                "recipe_id":1,
                 "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "boneless chicken breast",
@@ -24,6 +25,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id":2,
                 "recipe_name": "Mapo Tofu",
                 "ingredients": [
                     "firm tofu",
@@ -40,6 +42,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id":3,
                 "recipe_name": "Peking Duck",
                 "ingredients": [
                     "whole duck",
@@ -56,6 +59,7 @@
                 "rating": 4.9
             },
             {
+                "recipe_id":4,
                 "recipe_name": "Steamed Fish with Black Bean Sauce",
                 "ingredients": [
                     "whole fish",
@@ -80,7 +84,8 @@
         "likes": 350,
         "recipes": [
             {
-                "name": "Kung Pao Chicken",
+                "recipe_id":1,
+                "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "1 lb chicken breast",
                     "1/2 cup peanuts",
@@ -100,7 +105,8 @@
                 "rating": 4.5
             },
             {
-                "name": "Hot and Sour Soup",
+                "recipe_id":2,
+                "recipe_name": "Hot and Sour Soup",
                 "ingredients": [
                     "4 cups chicken stock",
                     "1/2 cup shiitake mushrooms",
@@ -118,7 +124,8 @@
                 "rating": 4.8
             },
             {
-                "name": "Mapo Tofu",
+                "recipe_id":3,
+                "recipe_name": "Mapo Tofu",
                 "ingredients": [
                     "soft tofu",
                     "ground pork",
@@ -134,6 +141,7 @@
                 "rating": 4.7
             },
             {
+                "recipe_id":4,
                 "recipeName": "Mongolian Beef",
                 "ingredients": [
                     "1 pound flank steak, sliced into thin strips",
@@ -165,6 +173,7 @@
         "likes": 1200,
         "recipes": [
             {
+                "recipe_id":1,
                 "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
@@ -186,6 +195,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id":2,
                 "recipe_name": "Hot and Sour Soup",
                 "ingredients": [
                     "4 cups chicken stock",
@@ -206,6 +216,7 @@
                 "rating": 4.4
             },
             {
+                "recipe_id":3,
                 "recipe_name": "Steamed Fish with Black Bean Sauce",
                 "ingredients": [
                     "whole fish",
@@ -230,7 +241,8 @@
         "likes": 350,
         "recipes": [
             {
-                "name": "Kung Pao Chicken",
+                "recipe_id":1,
+                "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "1 lb chicken breast",
                     "1/2 cup peanuts",
@@ -250,7 +262,8 @@
                 "rating": 4.5
             },
             {
-                "name": "Hot and Sour Soup",
+                "recipe_id":2,
+                "recipe_name": "Hot and Sour Soup",
                 "ingredients": [
                     "4 cups chicken stock",
                     "1/2 cup shiitake mushrooms",
@@ -268,7 +281,8 @@
                 "rating": 4.8
             },
             {
-                "name": "Mapo Tofu",
+                "recipe_id":3,
+                "recipe_name": "Mapo Tofu",
                 "ingredients": [
                     "soft tofu",
                     "ground pork",
@@ -284,6 +298,7 @@
                 "rating": 4.7
             },
             {
+                "recipe_id":4,
                 "recipeName": "Mongolian Beef",
                 "ingredients": [
                     "1 pound flank steak, sliced into thin strips",
@@ -315,6 +330,7 @@
         "likes": 2100,
         "recipes": [
             {
+                "recipe_id":1,
                 "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "boneless chicken breast",
@@ -331,6 +347,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id":2,
                 "recipe_name": "Mapo Tofu",
                 "ingredients": [
                     "firm tofu",
@@ -347,6 +364,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id":3,
                 "recipe_name": "Peking Duck",
                 "ingredients": [
                     "whole duck",
@@ -363,6 +381,7 @@
                 "rating": 4.9
             },
             {
+                "recipe_id":4,
                 "recipe_name": "Steamed Fish with Black Bean Sauce",
                 "ingredients": [
                     "whole fish",
@@ -387,6 +406,7 @@
         "likes": 1200,
         "recipes": [
             {
+                "recipe_id":1,
                 "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
@@ -408,6 +428,7 @@
                 "rating": 4.8
             },
             {
+                "recipe_id":2,
                 "recipe_name": "Hot and Sour Soup",
                 "ingredients": [
                     "4 cups chicken stock",
@@ -428,6 +449,7 @@
                 "rating": 4.4
             },
             {
+                "recipe_id":3,
                 "recipe_name": "Steamed Fish with Black Bean Sauce",
                 "ingredients": [
                     "whole fish",
