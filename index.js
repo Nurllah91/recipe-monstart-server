@@ -14,6 +14,16 @@ app.get('/', (req, res) => {
     res.send('Welcome to the Recipe monstar server')
   });
 
+app.get('/chefs', (req, res) =>{
+  res.send(chefs);
+})
+
+
+
+
+
+
+
 
   app.listen(port, () => {
     console.log(`Recipe monstar server is running on the port:${port}`)
